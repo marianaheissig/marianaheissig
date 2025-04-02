@@ -2,11 +2,11 @@
 
 ## 🌑Sobre mim
 <p align="left">
-  <a href="#" title="Gmail">
+  <a href="mailto:marianaheissig@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat&labelColor=FF0000&logo=gmail&logoColor=white&link=marianaheissig@gmail.com" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/mariana-heissig/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariana-heissig/" alt="LinkedIn"/></a>
-  <a href="#" title="WhatsApp">
+  <a href="https://wa.me/5511970406036" title="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5511970406036" alt="WhatsApp"/></a>
  
 </p>
